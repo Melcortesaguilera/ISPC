@@ -1,0 +1,3 @@
+print("hola mundo")
+8+2
+nombre= int(input(Ingrese su nomnre:))
